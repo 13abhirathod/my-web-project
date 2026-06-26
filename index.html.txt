@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First Website</title>
+    <title>My Website Project</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
     <a href="#" class="btn">Button Click Kare</a>
 
     <p style="margin-top: 50px; font-size: 1rem;">
-        Made with ❤️ by Grok
+        Made with ❤️ by Abhi
     </p>
 </body>
 </html>
